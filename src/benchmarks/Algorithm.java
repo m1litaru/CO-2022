@@ -1,6 +1,6 @@
 class Algorithm {
 
-    String name;
+    String surname;
     float computedScore;
 
     public static void main(String args[]){
