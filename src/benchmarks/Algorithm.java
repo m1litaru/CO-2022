@@ -13,7 +13,7 @@ class Algorithm {
 
     public static void main(String args[]){
         System.out.println("CO!");
-        System.out.println("CO! CO!");
+        System.out.println("CO! CO! CO!");
     }
 
 }
