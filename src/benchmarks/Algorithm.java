@@ -7,6 +7,10 @@ class Algorithm {
         return computedScore+1;
     }
 
+    public int changeComputedScoreByNumber(int y){
+        return computedScore*y;
+    }
+
     public int increaseComputedScore(int x){
         return computedScore+x;
     }
